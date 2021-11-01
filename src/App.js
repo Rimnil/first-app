@@ -8,6 +8,7 @@ function App() {
         Lets Get Syarted
       </h2>
       <h3>Hope you are doing fine</h3>
+      <h4>Wish You Happy Diwali!!!</h4>
     </div>
   );
 }
